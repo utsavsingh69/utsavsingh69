@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Utsav Kumar
-#### I am Developer/ Deginer/Hacker 
 ![I am Developer/ Deginer/Hacker ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a web Developer and deginer. I am also a Ethical Hacker. I got Certified from EC Councle. I am also A CTF player in TryHackMe, My rank in CTF is #2 in world.
